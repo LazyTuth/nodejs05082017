@@ -1,11 +1,15 @@
 {
   "dependencies": {
     "bcrypt": "^1.0.2",
+    "body-parser": "^1.17.2",
     "cookie-parser": "^1.4.3",
     "ejs": "^2.5.7",
     "express": "^4.15.3",
     "express-session": "^1.15.5",
     "jsonwebtoken": "^7.4.2",
     "pg": "^7.1.0"
+  },
+  "devDependencies": {
+    "eslint-config-rallycoding": "^3.2.0"
   }
 }
